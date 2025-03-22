@@ -1,0 +1,6 @@
+@servizio_lettura_dati_HostAddress = http://localhost:5042
+
+GET {{servizio_lettura_dati_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
